@@ -1,0 +1,24 @@
+{
+  "name": "require-commonjs",
+  "version": "0.0.1",
+  "description": "Async require commonjs module right within browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amio/require-commonjs.git"
+  },
+  "keywords": [
+    "require",
+    "commonjs",
+    "browser"
+  ],
+  "author": "Amio <amio.cn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amio/require-commonjs/issues"
+  },
+  "homepage": "https://github.com/amio/require-commonjs#readme"
+}
