@@ -2,7 +2,7 @@
   "name": "require-commonjs",
   "version": "1.0.0",
   "description": "Async require commonjs module right within browser.",
-  "main": "index.js",
+  "main": "require-commonjs.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
