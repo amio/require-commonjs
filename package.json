@@ -1,6 +1,6 @@
 {
   "name": "require-commonjs",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Async require commonjs module right within browser.",
   "main": "index.js",
   "scripts": {
