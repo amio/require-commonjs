@@ -16,9 +16,6 @@
   function evalCommonModule(text){
   	var module = { exports: {} }
     var exports = module.exports
-    var require = function () {
-      console.error('[requireCommonjs]: do not support `require()` in module.')
-    }
     eval(text)
     return module.exports
   }
