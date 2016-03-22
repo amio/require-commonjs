@@ -17,7 +17,7 @@
   	var module = { exports: {} }
     var exports = module.exports
     eval(text)
-    return module.exports
+    return module.exports.default || module.exports
   }
 
   scope.requireCommonjs = requireCommonjs
