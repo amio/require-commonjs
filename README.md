@@ -5,7 +5,7 @@ Async require commonjs module right within browser.
 
 include script from html:
 ```
-<script src="https://npmcdn.com/require-commonjs/require-commonjs.js"></script>
+<script src="https://unpkg.com/require-commonjs/require-commonjs.js"></script>
 ```
 
 then:
