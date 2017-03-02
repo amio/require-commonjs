@@ -1,4 +1,6 @@
 # require-commonjs
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/amio/require-commonjs.svg)](https://greenkeeper.io/)
 Async require commonjs module right within browser.
 
 ## Usage:
